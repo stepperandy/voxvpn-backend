@@ -1,0 +1,12 @@
+[
+  {
+    "email": "test@voxvpn.net",
+    "password": "123456",
+    "plan": "Pro"
+  },
+  {
+    "email": "free@voxvpn.net",
+    "password": "123456",
+    "plan": "Free"
+  }
+]
